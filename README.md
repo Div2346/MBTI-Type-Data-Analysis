@@ -11,13 +11,13 @@ and generates a four-lettered word, a personality type.
 
  The MBTI test works on eight measuring attributes:
  
-![image](https://github.com/Div2346/MBTITypeDataAnalysis/assets/93813465/51649c9c-6e4e-4ab7-8995-cebae830cbd1)
+   ![image](https://github.com/Div2346/MBTITypeDataAnalysis/assets/93813465/51649c9c-6e4e-4ab7-8995-cebae830cbd1)
 
 
 The combination of these alphabets generates 16 unique personality types, each associated
 with character traits that can define an individual's personality.
 
-![image](https://github.com/Div2346/MBTITypeDataAnalysis/assets/93813465/168a390b-4dc9-4f57-bb4d-42a6983a9e25)
+   ![image](https://github.com/Div2346/MBTITypeDataAnalysis/assets/93813465/168a390b-4dc9-4f57-bb4d-42a6983a9e25)
 
 
 In this project, a dataset has been extracted from Kaggle. The dataset consists of data
@@ -36,12 +36,14 @@ The operations performed on the data can be categorised into broad categories:
 
 
 Problem Statement:
+
 We seek to analyse data about the personality types and draw insightful conclusions about
 them based off the textual information of the last fifty posts that the people have shared on a
 social media platform.
 
 
 Conclusion:
+
 1. There is a high imbalance in the provided data with the greatest number of people
 identifying with ‘INFJ’ and ‘INFP’ personality types.
 2. The above occurrence was the reason for some approximate classification for the
